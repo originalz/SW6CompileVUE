@@ -1,5 +1,4 @@
 ## Compile Storefront VueJS components in Shopware 6
-### Storefront VueJS Components
 ```bash
 docker machine > bin/console plugin:refresh
 docker machine > bin/console plugin:install PLUGINNAME
