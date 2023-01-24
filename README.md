@@ -1,4 +1,4 @@
-## Compile Storefront Components in Shopware 6
+## Compile Storefront VueJS components in Shopware 6
 ### Storefront VueJS Components
 ```bash
 docker machine > bin/console plugin:refresh
